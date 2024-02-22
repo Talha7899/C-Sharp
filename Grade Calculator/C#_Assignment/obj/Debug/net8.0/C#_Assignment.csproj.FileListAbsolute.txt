@@ -1,0 +1,28 @@
+D:\C# Assignment\C#_Assignment\C#_Assignment\bin\Debug\net8.0\C#_Assignment.exe
+D:\C# Assignment\C#_Assignment\C#_Assignment\bin\Debug\net8.0\C#_Assignment.deps.json
+D:\C# Assignment\C#_Assignment\C#_Assignment\bin\Debug\net8.0\C#_Assignment.runtimeconfig.json
+D:\C# Assignment\C#_Assignment\C#_Assignment\bin\Debug\net8.0\C#_Assignment.dll
+D:\C# Assignment\C#_Assignment\C#_Assignment\bin\Debug\net8.0\C#_Assignment.pdb
+D:\C# Assignment\C#_Assignment\C#_Assignment\obj\Debug\net8.0\C#_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Assignment\C#_Assignment\C#_Assignment\obj\Debug\net8.0\C#_Assignment.AssemblyInfoInputs.cache
+D:\C# Assignment\C#_Assignment\C#_Assignment\obj\Debug\net8.0\C#_Assignment.AssemblyInfo.cs
+D:\C# Assignment\C#_Assignment\C#_Assignment\obj\Debug\net8.0\C#_Assignment.csproj.CoreCompileInputs.cache
+D:\C# Assignment\C#_Assignment\C#_Assignment\obj\Debug\net8.0\C#_Assignment.dll
+D:\C# Assignment\C#_Assignment\C#_Assignment\obj\Debug\net8.0\refint\C#_Assignment.dll
+D:\C# Assignment\C#_Assignment\C#_Assignment\obj\Debug\net8.0\C#_Assignment.pdb
+D:\C# Assignment\C#_Assignment\C#_Assignment\obj\Debug\net8.0\C#_Assignment.genruntimeconfig.cache
+D:\C# Assignment\C#_Assignment\C#_Assignment\obj\Debug\net8.0\ref\C#_Assignment.dll
+D:\C# Assignment\Grade Calculator\C#_Assignment\bin\Debug\net8.0\C#_Assignment.exe
+D:\C# Assignment\Grade Calculator\C#_Assignment\bin\Debug\net8.0\C#_Assignment.deps.json
+D:\C# Assignment\Grade Calculator\C#_Assignment\bin\Debug\net8.0\C#_Assignment.runtimeconfig.json
+D:\C# Assignment\Grade Calculator\C#_Assignment\bin\Debug\net8.0\C#_Assignment.dll
+D:\C# Assignment\Grade Calculator\C#_Assignment\bin\Debug\net8.0\C#_Assignment.pdb
+D:\C# Assignment\Grade Calculator\C#_Assignment\obj\Debug\net8.0\C#_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Assignment\Grade Calculator\C#_Assignment\obj\Debug\net8.0\C#_Assignment.AssemblyInfoInputs.cache
+D:\C# Assignment\Grade Calculator\C#_Assignment\obj\Debug\net8.0\C#_Assignment.AssemblyInfo.cs
+D:\C# Assignment\Grade Calculator\C#_Assignment\obj\Debug\net8.0\C#_Assignment.csproj.CoreCompileInputs.cache
+D:\C# Assignment\Grade Calculator\C#_Assignment\obj\Debug\net8.0\C#_Assignment.dll
+D:\C# Assignment\Grade Calculator\C#_Assignment\obj\Debug\net8.0\refint\C#_Assignment.dll
+D:\C# Assignment\Grade Calculator\C#_Assignment\obj\Debug\net8.0\C#_Assignment.pdb
+D:\C# Assignment\Grade Calculator\C#_Assignment\obj\Debug\net8.0\C#_Assignment.genruntimeconfig.cache
+D:\C# Assignment\Grade Calculator\C#_Assignment\obj\Debug\net8.0\ref\C#_Assignment.dll
